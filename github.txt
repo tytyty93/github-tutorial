@@ -1,0 +1,34 @@
+For new repositories
+
+1) Create the repository in github first
+2) Use the command line or the terminal in visual studio for the folder directory
+3) Type 'git init' in your LOCAL repository
+4) Type 'git add .' in your LOCAL repository
+[OPTIONAL]: You may type in 'git status' to see what are the files staged for commit
+5) Type 'git commit -m "My first commit"'
+6) Type 'git remote add origin <PASTE YOUR GITHUB URL>'
+7) Type 'git push -u origin master'
+
+
+
+For existing repositories
+
+1) Use the command line or the terminal in visual studio for the folder directory
+2) Ensure that you have 'git init'
+3) Type 'git add .' in your LOCAL repository
+[OPTIONAL]: You may type in 'git status' to see what are the files staged for commit
+4) Type 'git commit -m "Updating so and so"'
+5) Type 'git push -u origin master'
+
+
+
+
+For existing repositories (New branch)
+
+1) Create a new branch in your Github repository
+2) Type 'git checkout -b <BRANCH NAME>' to switch to the branch you created in step 1
+3) Type 'git add .' in your LOCAL repository
+[OPTIONAL]: You may type in 'git status' to see what are the files staged for commit
+4) Type 'git commit -m "Updating so and so"'
+5) Type 'git push'
+[OPTIONAL]: To swtich back to main branch, Type in 'git checkout -m main'
