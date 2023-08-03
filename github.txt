@@ -36,3 +36,4 @@ For existing repositories (New branch)
 
 Tips
 1) To switch between remote repositories, type 'git remote set-url origin <REPOSITORY URL>'
+2) To check which remote repository you are in currently, type 'git remote -v'
