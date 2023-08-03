@@ -32,3 +32,7 @@ For existing repositories (New branch)
 4) Type 'git commit -m "Updating so and so"'
 5) Type 'git push'
 [OPTIONAL]: To swtich back to main branch, Type in 'git checkout -m main'
+
+
+Tips
+1) To switch between remote repositories, type 'git remote set-url origin <REPOSITORY URL>'
