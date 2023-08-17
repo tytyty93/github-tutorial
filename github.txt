@@ -40,3 +40,10 @@ Tips
 
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = pk_test_51NVxXBKuyOLy9CLHyUTE6YV5Zi3VumHj3HbnCFtW22rCIswTgf0qL1TjpK4ITvuV6qetPV2dWgdDxv0F8mPRVB1t00hRL3QYyQ
 STRIPE_SECRET_KEY = sk_test_51NVxXBKuyOLy9CLHOtjJjmSi0vEnVbXeMZNTG2TbQgjny5pTozEpL0F5sJGHUJH0FkCIx00jRTf9sKhjxSCsNvK300TgzUyuEq
+
+
+
+
+https://res.cloudinary.com/do5dk3kwc/image/upload/w_800,o_90/e_displace,y_-9/u_Mockups:xqdjjf3oshsycmlfvrpw.jpg/fl_layer_apply,g_center,x_10,y_-270/yw1tnlhesqhhgpepws5l.jpg
+
+https://res.cloudinary.com/do5dk3kwc/image/upload/w_1100,o_90/e_displace,y_-9/u_Mockups:bkwudfth35z8wp2csif6.jpg/fl_layer_apply,g_center,x_10,y_-270/yw1tnlhesqhhgpepws5l.jpg
