@@ -41,6 +41,13 @@ To switch to another remote repository
 
 
 
+To merge branch to main
+1) Type 'git branch' to see what are the branches you have
+2) Ensure you are on the branch you want to merge into by typing 'git switch main' or 'git checkout main'
+3) Type 'git merge branch-name' while in the main branch
+
+
+
 Tips
 1) To switch between remote repositories, type 'git remote set-url origin <REPOSITORY URL>'
 2) To check which remote repository you are in currently, type 'git remote -v'
