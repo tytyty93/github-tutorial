@@ -52,6 +52,12 @@ Tips
 1) To switch between remote repositories, type 'git remote set-url origin <REPOSITORY URL>'
 2) To check which remote repository you are in currently, type 'git remote -v'
 3) To change to another branch within a remote repository, type 'git remote set-url origin <REPOSITORY URL>'
+4) To remove .env file, simple run the command below 
+git rm .env --cached
+git commit -m "Stopped tracking .env File"
+
+
+
 
 NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY = pk_test_51NVxXBKuyOLy9CLHyUTE6YV5Zi3VumHj3HbnCFtW22rCIswTgf0qL1TjpK4ITvuV6qetPV2dWgdDxv0F8mPRVB1t00hRL3QYyQ
 STRIPE_SECRET_KEY = sk_test_51NVxXBKuyOLy9CLHOtjJjmSi0vEnVbXeMZNTG2TbQgjny5pTozEpL0F5sJGHUJH0FkCIx00jRTf9sKhjxSCsNvK300TgzUyuEq
