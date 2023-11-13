@@ -31,7 +31,13 @@ For existing repositories (New branch)
 [OPTIONAL]: You may type in 'git status' to see what are the files staged for commit
 4) Type 'git commit -m "Updating so and so"'
 5) Type 'git push'
-[OPTIONAL]: To swtich back to main branch, Type in 'git checkout -m main'
+[OPTIONAL]: To switch back to main branch, Type in 'git checkout -m main'
+
+
+To switch to another remote repository
+1) git remote set-url origin https://github.com/OWNER/REPOSITORY.git
+2) Verify that your remote origin has been changed. 'git remote -v'
+3) Once you have verified, you may now do the add ., commit and push
 
 
 
